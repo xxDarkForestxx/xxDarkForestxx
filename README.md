@@ -7,10 +7,12 @@
 
 - Google Cybersecurity 
 - CompTIA Security+
-- CompTIA NetWork+ 
+- CompTIA Network+ 
 - CompTIA A+ Core 1001 & 1002
 
+<h2>Education</h2>
 
+ Bachelor of Business Administration- WGU 2017
 
 <h2>📺 Popular YouTube Videos</h2>
 
