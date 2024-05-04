@@ -1,7 +1,7 @@
 <h1>Hi, I am Antonio! 
 <h2> Cybersecurity projects:</h2>
 
-- [Active Directory home lab](https://github.com/xxDarkForestxx/laburl) Work in progress
+- [Active Directory home lab](https://github.com/xxDarkForestxx/laburl) coming soon! 
 - [Nessus Vulnerability Scanner](https://github.com/xxDarkForestxx/Vulnerability-Scanner.git)
 - [CyberSecurity compliance checklist](https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git)
 
