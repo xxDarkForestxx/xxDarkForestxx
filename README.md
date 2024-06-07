@@ -6,7 +6,7 @@
 - [TCPDUMP: packet sniffer](https://github.com/xxDarkForestxx/Packet-sniffer.git)
 - [TCPDUMP: find the malicious packet](https://github.com/xxDarkForestxx/TCPDUMP-find-the-malicious-packet.git)
 - [CyberSecurity: compliance checklist](https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git)
-- [Linux: Permissions and basics](https://github.com/xxDarkForestxx/Linux-permission-modification.git)
+- [Linux: Navigating FHS, provisioning users and managing file ownership](https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git)
 
 <h2>Certifications</h2>
 
