@@ -7,7 +7,7 @@
 - [TCPDUMP: find the malicious packet](https://github.com/xxDarkForestxx/TCPDUMP-find-the-malicious-packet.git)
 - [CyberSecurity: compliance checklist](https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git)
 - [Linux: Navigating FHS, provisioning users and managing file ownership](https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git)
-
+- [SQL: Filterning operators](https://github.com/xxDarkForestxx/SQL.git)
 <h2>Certifications</h2>
 
 
