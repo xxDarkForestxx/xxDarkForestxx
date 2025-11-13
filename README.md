@@ -15,6 +15,7 @@
 - CompTIA Security+
 - CompTIA Network+ 
 - CompTIA A+ Core 1001 & 1002
+- ITIL 4 Foundations
 
 <h2>Education</h2>
 
