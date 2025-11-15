@@ -9,6 +9,7 @@
 - [Linux: Navigating FHS, provisioning users and managing file ownership](https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git)
 - [SQL: Filterning operators](https://github.com/xxDarkForestxx/SQL.git)
 - [NetFixs: Automated Network diagnostic tool](https://github.com/xxDarkForestxx/NetFix)
+- [Professional-resume written in html and css](https://github.com/xxDarkForestxx/professional-resume-html)
 <h2>Certifications</h2>
 
 
