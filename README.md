@@ -1,4 +1,4 @@
-<h1>Hi, I am Antonio! 
+<h1>Hi, I am Antonio!</h1>
 <h2> Cybersecurity projects:</h2>
 
 - [Active Directory: home lab](https://github.com/xxDarkForestxx/laburl) coming soon! 
