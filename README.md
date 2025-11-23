@@ -1,4 +1,9 @@
 <h1>Hi, I am Antonio!</h1>
+<div="Title">
+ <p>Digital Craftsman (coder/computer-magician/lover of digital arts)
+ </p>
+</div>
+<div>
 <h2> Cybersecurity projects:</h2>
 
 - [Active Directory: home lab](https://github.com/xxDarkForestxx/laburl) coming soon! 
@@ -10,6 +15,7 @@
 - [SQL: Filterning operators](https://github.com/xxDarkForestxx/SQL.git)
 - [NetFixs: Automated Network diagnostic tool](https://github.com/xxDarkForestxx/NetFix)
 - [Professional-resume written in html and css](https://github.com/xxDarkForestxx/professional-resume-html)
+</div>
 <h2>Certifications</h2>
 
 
