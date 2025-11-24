@@ -11,61 +11,82 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Languages, Tools & Platforms (Icon Grid)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" height="32" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" height="32" alt="Active Directory"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="32" height="32" alt="Jira"/>
-</p>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Cybersecurity Toolkit</th>
+    <th>Platforms</th>
+    <th>Dev & Productivity</th>
+  </tr>
 
----
+  <tr>
+    <!-- Languages -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML"/><br/>HTML
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS"/><br/>CSS
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python"/><br/>Python
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" height="28" alt="Bash"/><br/>Bash
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28" alt="Linux"/><br/>Linux
+    </td>
 
-## 🛡️ Cybersecurity Toolkit
+    <!-- Cybersecurity Toolkit -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="28" height="28" alt="Wireshark"/><br/>Wireshark
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="28" height="28" alt="Nmap"/><br/>Nmap
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tenable.svg" width="28" height="28" alt="Nessus"/><br/>Nessus
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" width="28" height="28" alt="Burp Suite"/><br/>Burp
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="28" height="28" alt="Metasploit"/><br/>Metasploit
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="28" height="28" alt="Kali Linux"/><br/>Kali
+    </td>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="32" height="32" alt="Wireshark"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="32" height="32" alt="Nmap"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tenable.svg" width="32" height="32" alt="Nessus"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" width="32" height="32" alt="Burp Suite"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="32" height="32" alt="Metasploit"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="32" height="32" alt="Kali Linux"/>
-</p>
+    <!-- Platforms -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" height="28" alt="Windows Server"/><br/>Windows
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="28" height="28" alt="Ubuntu"/><br/>Ubuntu
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="28" height="28" alt="Debian"/><br/>Debian
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="28" height="28" alt="Azure"/><br/>Azure
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="28" height="28" alt="AWS"/><br/>AWS
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/virtualbox.svg" width="28" height="28" alt="VirtualBox"/><br/>VirtualBox
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg" width="28" height="28" alt="VMware"/><br/>VMware
+    </td>
 
----
+    <!-- Dev & Productivity -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code"/><br/>VS Code
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub"/><br/>GitHub
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="28" height="28" alt="Notion"/><br/>Notion
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="28" height="28" alt="Postman"/><br/>Postman
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="28" height="28" alt="Trello"/><br/>Trello
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28" height="28" alt="Slack"/><br/>Slack
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="28" height="28" alt="Jira"/><br/>Jira
+    </td>
 
-## 🖥️ Platforms & Infrastructure Experience
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" height="32" alt="Windows Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="32" height="32" alt="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="32" height="32" alt="Debian"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" height="32" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="32" height="32" alt="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/VirtualBox_Logo.png" width="32" height="32" alt="VirtualBox"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg" width="32" height="32" alt="VMware"/>
-</p>
-
----
-
-## 🔧 Development & Productivity Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="32" height="32" alt="Notion"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="32" height="32" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="32" height="32" alt="Trello"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="32" height="32" alt="Slack"/>
-</p>
-
----
 
 ## 🧩 Project Categories
 
