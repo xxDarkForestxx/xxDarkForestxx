@@ -22,8 +22,6 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
   </tr>
 
   <tr>
-
-    <!-- Languages -->
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"><br/>HTML<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"><br/>CSS<br/><br/>
@@ -32,7 +30,6 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"><br/>Linux
     </td>
 
-    <!-- Cybersecurity Toolkit -->
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="28"><br/>Wireshark<br/><br/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="28"><br/>Nmap<br/><br/>
@@ -42,7 +39,6 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="28"><br/>Kali
     </td>
 
-    <!-- Platforms -->
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28"><br/>Windows<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="28"><br/>Ubuntu<br/><br/>
@@ -53,7 +49,6 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg" width="28"><br/>VMware
     </td>
 
-    <!-- Dev Tools -->
     <td align="center" width="25%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"><br/>VS Code<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"><br/>GitHub<br/><br/>
@@ -63,7 +58,6 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28"><br/>Slack<br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="28"><br/>Jira
     </td>
-
   </tr>
 </table>
 
@@ -84,17 +78,17 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
       • <a href="https://github.com/xxDarkForestxx/Vulnerability-Scanner.git">Nessus Vulnerability Scanner</a><br/>
       • <a href="https://github.com/xxDarkForestxx/Packet-sniffer.git">TCPDUMP Packet Sniffer</a><br/>
       • <a href="https://github.com/xxDarkForestxx/TCPDUMP-find-the-malicious-packet.git">Find the Malicious Packet</a><br/>
-      • <a href="https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git">Cybersecurity Compliance Checklist</a><br/>
+      • <a href="https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git">Cybersecurity Compliance Checklist</a>
     </td>
     <td>
       • <a href="https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git">Linux FHS, Users, Ownership</a><br/>
-      • <a href="https://github.com/xxDarkForestxx/SQL.git">SQL Filtering Operators</a><br/>
+      • <a href="https://github.com/xxDarkForestxx/SQL.git">SQL Filtering Operators</a>
     </td>
     <td>
-      • <a href="https://github.com/xxDarkForestxx/NetFix">NetFix — Network Diagnostic Tool</a><br/>
+      • <a href="https://github.com/xxDarkForestxx/NetFix">NetFix — Network Diagnostic Tool</a>
     </td>
     <td>
-      • <a href="https://github.com/xxDarkForestxx/professional-resume-html">Professional Resume (HTML/CSS)</a><br/>
+      • <a href="https://github.com/xxDarkForestxx/professional-resume-html">Professional Resume (HTML/CSS)</a>
     </td>
   </tr>
 </table>
@@ -122,37 +116,28 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 ## 🗺️ Roadmap
 
 ### 🎯 Short-Term Goals (0–12 Months)
-- Complete **B.S. Information Technology (WGU)**  
-- Begin Microsoft & CompTIA security stack:  
-  - **CySA+**  
-  - **SC-900**  
-  - **SC-200**  
-  - **SC-300**  
-  - **AZ-500**  
+- Finish **B.S. Information Technology**  
+- Begin cybersecurity certification stack:  
+  - CySA+  
+  - SC-900  
+  - SC-200  
+  - SC-300  
+  - AZ-500  
 
 ### 🚀 Medium-Term Goals (1–3 Years)
 - Earn **CCNA**  
 - Master:
-  - **Python**
-  - **JavaScript**
-  - **HTML & CSS**
-- Study/Implement:
-  - **NIST 800-61 (Incident Handling)**
-  - **NIST 800-37 (RMF)**
-- Complete **SC-100 (Cybersecurity Architect)**  
+  - Python  
+  - JavaScript  
+  - HTML & CSS  
+- Learn:
+  - NIST 800-61  
+  - NIST 800-37  
+- Complete **SC-100**  
 
 ### 🌌 Long-Term Goals (3+ Years)
 - Achieve **CISSP**  
-- Operate as a high-level cyber practitioner specializing in:
-  - Automation  
-  - Incident Response  
-  - Security Engineering  
-  - Governance & Architecture  
-
----
-
-## 📺 Popular YouTube Videos  
-*(Coming soon)*
+- Develop into a senior-level security engineer specializing in automation, IR, and architecture  
 
 ---
 
@@ -161,20 +146,3 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 [<img align="left" alt="Antonio | LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/antonio-reyes-72a735106/)
 
 <br/><br/>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxDarkForestxx&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxDarkForestxx&layout=compact&theme=tokyonight" height="165" alt="Top languages"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxDarkForestxx&theme=tokyonight" alt="GitHub streak stats"/>
-</p>
