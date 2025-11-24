@@ -38,7 +38,7 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 ## 🎓 Education
 
 **Bachelor of Business Administration — Western Governors University (2017)**  
-**B.S. Information Technology — In progress (WGU)**
+**B.S. Information Technology — In progress (WGU)**<br /> 
 <bold>Associates in liberal arts and math and sciences- Antelope Valley College 2015</bold>
 
 ---
