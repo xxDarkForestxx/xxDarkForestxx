@@ -6,7 +6,7 @@
 <p>
 I am a <strong>Veteran of the United States Navy Reserves</strong> with 8 years of service, transitioning from the medical field to the virtual landscape. I have worked in the IT field for over a year and have recently focused heavily on coding, automation, and cybersecurity engineering.
 <br/><br/>
-I’m a highly technical, professional, and proudly nerdy individual aiming to build and defend systems for a major, futuristic corporation like <em>Arasaka</em>.
+I’m a highly technical, professional, and proudly nerdy individual aiming to build and defend systems for a major futuristic corporation like <em>Arasaka</em>.
 </p>
 
 ---
@@ -38,8 +38,8 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 ## 🎓 Education
 
 **Bachelor of Business Administration — Western Governors University (2017)**  
-**B.S. Information Technology — In progress (WGU)**<br /> 
-<bold>Associates in liberal arts and math and sciences- Antelope Valley College 2015</bold>
+**B.S. Information Technology — In progress (WGU)**  
+**Associate of Liberal Arts: Math & Sciences — Antelope Valley College (2015)**
 
 ---
 
