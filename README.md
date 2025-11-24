@@ -8,34 +8,44 @@ I am a **Veteran of the United States Navy Reserves** with 8 years of service, t
 I’m a highly technical, professional, and proudly nerdy individual aiming to build and defend systems for a major futuristic corporation like *Arasaka*.
 
 ---
-## Toolbox
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/wireshark" width="32" alt="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/nmap" width="32" alt="Nmap"/>
-  <img src="https://cdn.simpleicons.org/tenable" width="32" alt="Nessus"/>
-  <img src="https://cdn.simpleicons.org/burp" width="32" alt="Burp Suite"/>
-  <img src="https://cdn.simpleicons.org/metasploit" width="32" alt="Metasploit"/>
-  <img src="https://cdn.simpleicons.org/kalilinux" width="32" alt="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/windows" width="32" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="36" alt="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="36" alt="Debian"/>
-  <img src="https://cdn.simpleicons.org/aws" width="32" alt="AWS"/>
-  <img src="https://cdn.simpleicons.org/virtualbox" width="32" alt="VirtualBox"/>
-  <img src="https://cdn.simpleicons.org/vmware" width="32" alt="VMware"/>
-  <img src="https://cdn.simpleicons.org/azure" width="32" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/notion" width="32" alt="Notion"/>
-  <img src="https://cdn.simpleicons.org/postman" width="32" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="32" alt="Trello"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="32" alt="Slack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="32" alt="Jira"/>
+## 🧰 Toolbox
+
+<p align="left">
+  <!-- Core languages / OS -->
+  <img align="left" alt="HTML" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="left" alt="CSS" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="left" alt="Python" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="left" alt="Bash" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img align="left" alt="Linux" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+  <!-- Cybersecurity tools -->
+  <img align="left" alt="Wireshark" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"/>
+  <img align="left" alt="Nmap" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/nmap"/>
+  <img align="left" alt="Nessus" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/tenable"/>
+  <img align="left" alt="Burp Suite" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/burpsuite"/>
+  <img align="left" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/metasploit"/>
+  <img align="left" alt="Kali Linux" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kali"/>
+
+  <!-- Platforms -->
+  <img align="left" alt="Windows" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"/>
+  <img align="left" alt="Ubuntu" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"/>
+  <img align="left" alt="Debian" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
+  <img align="left" alt="Azure" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img align="left" alt="AWS" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/amazonaws"/>
+  <img align="left" alt="VirtualBox" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/virtualbox"/>
+  <img align="left" alt="VMware" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/vmware"/>
+
+  <!-- Dev / productivity -->
+  <img align="left" alt="VS Code" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="left" alt="GitHub" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="left" alt="Notion" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/notion"/>
+  <img align="left" alt="Postman" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/postman"/>
+  <img align="left" alt="Trello" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg"/>
+  <img align="left" alt="Slack" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+  <img align="left" alt="Jira" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 </p>
+
+<br />
 
 ---
 ## Project Categories
