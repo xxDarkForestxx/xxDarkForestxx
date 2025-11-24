@@ -1,43 +1,48 @@
-<h1>Hi, I am Antonio!</h1>
-<div="Title">
- <p>Digital Craftsman (coder/computer-magician/lover of digital arts)
- </p>
-</div>
-<div>
-<h2> Cybersecurity projects:</h2>
+<h1 align="center">👋 Antonio Reyes</h1>
+<p align="center"><strong>Digital Craftsman • Cybersecurity Practitioner • Automation Builder</strong></p>
 
-- [Active Directory: home lab](https://github.com/xxDarkForestxx/laburl) coming soon! 
-- [Nessus: Vulnerability Scanner](https://github.com/xxDarkForestxx/Vulnerability-Scanner.git)
-- [TCPDUMP: packet sniffer](https://github.com/xxDarkForestxx/Packet-sniffer.git)
-- [TCPDUMP: find the malicious packet](https://github.com/xxDarkForestxx/TCPDUMP-find-the-malicious-packet.git)
-- [CyberSecurity: compliance checklist](https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git)
-- [Linux: Navigating FHS, provisioning users and managing file ownership](https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git)
-- [SQL: Filterning operators](https://github.com/xxDarkForestxx/SQL.git)
-- [NetFixs: Automated Network diagnostic tool](https://github.com/xxDarkForestxx/NetFix)
-- [Professional-resume written in html and css](https://github.com/xxDarkForestxx/professional-resume-html)
-</div>
-<h2>Certifications</h2>
+---
 
+## 🛡️ Cybersecurity Projects
 
-- Google Cybersecurity 
-- CompTIA Security+
-- CompTIA Network+ 
-- CompTIA A+ Core 1001 & 1002
-- ITIL 4 Foundations
+- **Active Directory Home Lab** *(Coming soon!)*
+- [🔍 Nessus Vulnerability Scanner](https://github.com/xxDarkForestxx/Vulnerability-Scanner.git)
+- [📡 TCPDUMP Packet Sniffer](https://github.com/xxDarkForestxx/Packet-sniffer.git)
+- [🕵️ TCPDUMP – Find the Malicious Packet](https://github.com/xxDarkForestxx/TCPDUMP-find-the-malicious-packet.git)
+- [🔐 Cybersecurity Compliance Checklist](https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git)
+- [🐧 Linux – FHS, Users, Ownership](https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git)
+- [🗄 SQL Filtering Operators](https://github.com/xxDarkForestxx/SQL.git)
+- [⚡ NetFix – Automated Network Diagnostic Tool](https://github.com/xxDarkForestxx/NetFix)
+- [📝 Professional Resume (HTML/CSS)](https://github.com/xxDarkForestxx/professional-resume-html)
 
-<h2>Education</h2>
+---
 
- Bachelor of Business Administration- WGU 2017
+## 🎓 Certifications
 
-<h2>📺 Popular YouTube Videos</h2>
+- Google Cybersecurity  
+- CompTIA Security+  
+- CompTIA Network+  
+- CompTIA A+ (Core 1001 & 1002)  
+- ITIL 4 Foundations  
 
-Coming Soon
-<h2> 🤳 Connect with me:</h2>
+---
 
+## 🎓 Education
 
-[<img align="left" alt="Antonio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**Bachelor of Business Administration — Western Governors University (2017)**  
+**B.S. Information Technology — In progress (WGU)**
 
+---
 
+## 📺 Popular YouTube Videos  
+*(Coming soon)*
 
-[linkedin]: https://linkedin.com/in/antonio-reyes-72a735106/
+---
 
+## 🤳 Connect With Me
+
+[<img align="left" alt="Antonio | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/antonio-reyes-72a735106/)
+
+<br/><br/>
+
+---
