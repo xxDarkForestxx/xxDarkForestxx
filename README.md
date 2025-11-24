@@ -59,8 +59,7 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 
 ---
 
-## 🎓 Certifications
-<p align="center">
+<h2 align="center">🎓 Certifications</h2>
 
 Google Cybersecurity<br>
 CompTIA Security+<br>
@@ -73,7 +72,7 @@ ITIL 4 Foundations
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 **Bachelor of Business Administration** — Western Governors University (2017)  
 **B.S. Information Technology** — In progress (WGU)  
@@ -81,7 +80,7 @@ ITIL 4 Foundations
 
 ---
 
-## 🗺️ Roadmap
+#<h2 align="center">🎓 Roadmap/h2>
 
 | 🎯 Short-Term (0–12 Months) | 🚀 Medium-Term (1–3 Years) | 🌌 Long-Term (3+ Years) |
 |-----------------------------|-----------------------------|--------------------------|
