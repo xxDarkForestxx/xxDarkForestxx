@@ -1,13 +1,15 @@
-<h1 align="center">Antonio Reyes</h1>
+<h1 align="center">👋 Antonio Reyes</h1>
+
 <p align="center">
   <strong>Digital Craftsman • Cybersecurity Practitioner • Automation Builder</strong>
 </p>
 
 I am a **Veteran of the United States Navy Reserves** with 8 years of service, transitioning from the medical field to the virtual landscape. I have worked in the IT field for over a year and have recently focused heavily on coding, automation, and cybersecurity engineering.  
-<br><br>
+
 I’m a highly technical, professional, and proudly nerdy individual aiming to build and defend systems for a major futuristic corporation like *Arasaka*.
 
 ---
+
 ## 🧰 Toolbox
 
 <p align="left">
@@ -24,7 +26,7 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
   <img align="left" alt="Nessus" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/tenable"/>
   <img align="left" alt="Burp Suite" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/burpsuite"/>
   <img align="left" alt="Metasploit" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/metasploit"/>
-  <img align="left" alt="Kali Linux" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kali"/>
+  <img align="left" alt="Kali Linux" width="28px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kalilinux"/>
 
   <!-- Platforms -->
   <img align="left" alt="Windows" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"/>
@@ -45,34 +47,44 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
   <img align="left" alt="Jira" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
 </p>
 
-<br />
+<br/>
 
 ---
-## Project Categories
-| Cybersecurity | Linux / Languages | Automation | Web / Resume |
+
+## 🧩 Project Categories
+
+| 🛡️ Cybersecurity | 🐧 Linux / Languages | ⚡ Automation | 📝 Web / Resume |
 |:-----------------|:---------------------|:-------------|:----------------|
 | • **Active Directory Home Lab** (Coming soon!)<br>• [Nessus Vulnerability Scanner](https://github.com/xxDarkForestxx/Vulnerability-Scanner.git)<br>• [TCPDUMP Packet Sniffer](https://github.com/xxDarkForestxx/Packet-sniffer.git)<br>• [Find the Malicious Packet](https://github.com/xxDarkForestxx/TCPDUMP-find-the-malicious-packet.git)<br>• [Cybersecurity Compliance Checklist](https://github.com/xxDarkForestxx/Cyber-Security-Compliance.git) | • [Linux FHS, Users, Ownership](https://github.com/xxDarkForestxx/Linux-permissions-users-ownership.git)<br>• [SQL Filtering Operators](https://github.com/xxDarkForestxx/SQL.git) | • [NetFix — Network Diagnostic Tool](https://github.com/xxDarkForestxx/NetFix) | • [Professional Resume (HTML/CSS)](https://github.com/xxDarkForestxx/professional-resume-html) |
 
 ---
-## Certifications
-- Google Cybersecurity • CompTIA Security+ • CompTIA Network+ • CompTIA A+ • ITIL 4 Foundations
+
+## 🎓 Certifications
+
+- Google Cybersecurity  
+- CompTIA Security+  
+- CompTIA Network+  
+- CompTIA A+ (Core 1001 & 1002)  
+- ITIL 4 Foundations  
 
 ---
-## Education
+
+## 🎓 Education
+
 **Bachelor of Business Administration** — Western Governors University (2017)  
 **B.S. Information Technology** — In progress (WGU)  
-**Associate of Liberal Arts: Math & Sciences** — Antelope Valley College (2015)
+**Associate of Liberal Arts: Math & Sciences** — Antelope Valley College (2015)  
 
 ---
-## Roadmap
-| Short-Term (0–12 Months) | Medium-Term (1–3 Years) | Long-Term (3+ Years) |
+
+## 🗺️ Roadmap
+
+| 🎯 Short-Term (0–12 Months) | 🚀 Medium-Term (1–3 Years) | 🌌 Long-Term (3+ Years) |
 |-----------------------------|-----------------------------|--------------------------|
-| • Finish **B.S. IT**<br>• CySA+ • SC-900 • SC-200 • SC-300 • AZ-500 | • Earn **CCNA**<br>• Master Python, JS, HTML/CSS<br>• Learn NIST 800-61 & 800-37<br>• Complete **SC-100** | • Achieve **CISSP**<br>• Senior Security Engineer (Automation • IR • Architecture) |
+| • Finish **B.S. Information Technology**<br>• Begin cybersecurity certification stack:<br>— CySA+<br>— SC-900<br>— SC-200<br>— SC-300<br>— AZ-500 | • Earn **CCNA**<br>• Master:<br>— Python<br>— JavaScript<br>— HTML & CSS<br>• Learn:<br>— NIST 800-61<br>— NIST 800-37<br>• Complete **SC-100** | • Achieve **CISSP**<br>• Develop into a senior-level cybersecurity engineer<br>• Specialize in:<br>— Automation<br>— Incident Response<br>— Security Architecture |
 
 ---
-## Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/antonio-reyes-72a735106/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+
+## 🤳 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-reyes-72a735106/)
