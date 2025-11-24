@@ -10,31 +10,31 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 ---
 ## Toolbox
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux"/>
-  <img src="https://cdn.simpleicons.org/wireshark" width="36" alt="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/nmap" width="36" alt="Nmap"/>
-  <img src="https://cdn.simpleicons.org/tenable" width="36" alt="Nessus"/>
-  <img src="https://cdn.simpleicons.org/burp" width="36" alt="Burp Suite"/>
-  <img src="https://cdn.simpleicons.org/metasploit" width="36" alt="Metasploit"/>
-  <img src="https://cdn.simpleicons.org/kalilinux" width="36" alt="Kali Linux"/>
-  <img src="https://cdn.simpleicons.org/windows" width="36" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/wireshark" width="32" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/nmap" width="32" alt="Nmap"/>
+  <img src="https://cdn.simpleicons.org/tenable" width="32" alt="Nessus"/>
+  <img src="https://cdn.simpleicons.org/burp" width="32" alt="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/metasploit" width="32" alt="Metasploit"/>
+  <img src="https://cdn.simpleicons.org/kalilinux" width="32" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/windows" width="32" alt="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="36" alt="Ubuntu"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="36" alt="Debian"/>
-  <img src="https://cdn.simpleicons.org/aws" width="36" alt="AWS"/>
-  <img src="https://cdn.simpleicons.org/virtualbox" width="36" alt="VirtualBox"/>
-  <img src="https://cdn.simpleicons.org/vmware" width="36" alt="VMware"/>
-  <img src="https://cdn.simpleicons.org/azure" width="36" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/notion" width="36" alt="Notion"/>
-  <img src="https://cdn.simpleicons.org/postman" width="36" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="36" alt="Trello"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="36" alt="Slack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="36" alt="Jira"/>
+  <img src="https://cdn.simpleicons.org/aws" width="32" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/virtualbox" width="32" alt="VirtualBox"/>
+  <img src="https://cdn.simpleicons.org/vmware" width="32" alt="VMware"/>
+  <img src="https://cdn.simpleicons.org/azure" width="32" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/notion" width="32" alt="Notion"/>
+  <img src="https://cdn.simpleicons.org/postman" width="32" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="32" alt="Trello"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="32" alt="Slack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="32" alt="Jira"/>
 </p>
 
 ---
