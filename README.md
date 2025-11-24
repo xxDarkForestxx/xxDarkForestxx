@@ -1,5 +1,13 @@
 <h1 align="center">👋 Antonio Reyes</h1>
-<p align="center"><strong>Digital Craftsman • Cybersecurity Practitioner • Automation Builder</strong></p>
+<p align="center">
+  <strong>Digital Craftsman • Cybersecurity Practitioner • Automation Builder</strong>
+</p>
+
+<p>
+I am a <strong>Veteran of the United States Navy Reserves</strong> with 8 years of service, transitioning from the medical field to the virtual landscape. I have worked in the IT field for over a year and have recently focused heavily on coding, automation, and cybersecurity engineering.
+<br/><br/>
+I’m a highly technical, professional, and proudly nerdy individual aiming to build and defend systems for a major, futuristic corporation—something straight out of <em>Arasaka</em>.
+</p>
 
 ---
 
@@ -39,7 +47,7 @@
 
 ---
 
-## 🤳 Connect With Me
+## 🤳 Connect With Me  
 
 [<img align="left" alt="Antonio | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/antonio-reyes-72a735106/)
 
