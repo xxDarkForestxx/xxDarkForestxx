@@ -59,7 +59,8 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 
 ---
 
-<h2 align="center">🎓 Certifications</h2>
+## 🎓 Certifications
+
 
 Google Cybersecurity<br>
 CompTIA Security+<br>
@@ -72,7 +73,7 @@ ITIL 4 Foundations
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+## 🎓 Education
 
 **Bachelor of Business Administration** — Western Governors University (2017)  
 **B.S. Information Technology** — In progress (WGU)  
