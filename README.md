@@ -12,17 +12,37 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 
 ## 🧰 Toolbox
 
-| Languages | Cybersecurity Toolkit | Platforms | Dev & Productivity |
-|:---------:|:---------------------:|:---------:|:------------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/><br>HTML | <img src="https://cdn.simpleicons.org/wireshark" width="28"/><br>Wireshark | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="28"/><br>Windows | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/><br>VS Code |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/><br>CSS | <img src="https://cdn.simpleicons.org/nmap" width="28"/><br>Nmap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="28"/><br>Ubuntu | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/><br>GitHub |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/><br>Python | <img src="https://cdn.simpleicons.org/nessus" width="28"/><br>Nessus | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="28"/><br>Debian | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="28"/><br>Notion |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28"/><br>Bash | <img src="https://cdn.simpleicons.org/burpsuite" width="28"/><br>Burp Suite | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="28"/><br>Azure | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="28"/><br>Postman |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/><br>Linux | <img src="https://cdn.simpleicons.org/metasploit" width="28"/><br>Metasploit | <img src="https://cdn.simpleicons.org/amazonaws" width="28"/><br>AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="28"/><br>Trello |
-|  | <img src="https://cdn.simpleicons.org/kali" width="28"/><br>Kali Linux | <img src="https://cdn.simpleicons.org/virtualbox" width="28"/><br>VirtualBox | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28"/><br>Slack |
-|  |  | <img src="https://cdn.simpleicons.org/vmware" width="28"/><br>VMware | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="28"/><br>Jira |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" alt="Linux"/>
 
----
+  <img src="https://cdn.simpleicons.org/wireshark" width="28" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/nmap" width="28" alt="Nmap"/>
+  <img src="https://cdn.simpleicons.org/nessus" width="28" alt="Nessus"/>
+  <img src="https://cdn.simpleicons.org/burpsuite" width="28" alt="Burp"/>
+  <img src="https://cdn.simpleicons.org/metasploit" width="28" alt="Metasploit"/>
+  <img src="https://cdn.simpleicons.org/kali" width="28" alt="Kali"/>
+
+  <img src="https://cdn.simpleicons.org/windows11" width="28" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="28" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="28" alt="Debian"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="28" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/virtualbox" width="28" alt="VirtualBox"/>
+  <img src="https://cdn.simpleicons.org/vmware" width="28" alt="VMware"/>
+  <img src="https://cdn.simpleicons.org/azuredevops" width="28" alt="Azure"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/notion" width="28" alt="Notion"/>
+  <img src="https://cdn.simpleicons.org/postman" width="28" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="28" alt="Trello"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="28" alt="Slack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="28" alt="Jira"/>
+</p>
+
 
 ## 🧩 Project Categories
 
