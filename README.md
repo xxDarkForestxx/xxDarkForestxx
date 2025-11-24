@@ -50,29 +50,10 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 
 ## 🗺️ Roadmap
 
-### 🎯 Short-Term Goals
-- Finish **B.S. Information Technology**
-- Begin cybersecurity stack:  
-  - CySA+  
-  - SC-900  
-  - SC-200  
-  - SC-300  
-  - AZ-500  
+| 🎯 Short-Term (0–12 Months) | 🚀 Medium-Term (1–3 Years) | 🌌 Long-Term (3+ Years) |
+|-----------------------------|-----------------------------|--------------------------|
+| • Finish **B.S. Information Technology**<br>• Begin cybersecurity certification stack:<br>— CySA+<br>— SC-900<br>— SC-200<br>— SC-300<br>— AZ-500 | • Earn **CCNA**<br>• Master:<br>— Python<br>— JavaScript<br>— HTML & CSS<br>• Learn:<br>— NIST 800-61<br>— NIST 800-37<br>• Complete **SC-100** | • Achieve **CISSP**<br>• Develop into a senior-level cybersecurity engineer<br>• Specialize in:<br>— Automation<br>— Incident Response<br>— Security Architecture |
 
-### 🚀 Medium-Term Goals
-- Earn **CCNA**  
-- Master:
-  - Python
-  - JavaScript
-  - HTML & CSS  
-- Learn:
-  - NIST 800-61  
-  - NIST 800-37  
-- Complete **SC-100**
-
-### 🌌 Long-Term Goals
-- Earn **CISSP**  
-- Become a senior-level cybersecurity engineer (automation + IR + architecture)
 
 ---
 
