@@ -43,11 +43,11 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
       <br/><br/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tenable.svg" width="28" height="28" alt="Nessus"/><br/>Nessus
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" width="28" height="28" alt="Burp Suite"/><br/>Burp
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" width="28" height="28" alt="Burp Suite"/><br/>Burp Suite
       <br/><br/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" width="28" height="28" alt="Metasploit"/><br/>Metasploit
       <br/><br/>
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="28" height="28" alt="Kali Linux"/><br/>Kali
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="28" height="28" alt="Kali Linux"/><br/>Kali Linux
     </td>
 
     <!-- Platforms -->
@@ -87,6 +87,7 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
   </tr>
 </table>
 
+---
 
 ## 🧩 Project Categories
 
