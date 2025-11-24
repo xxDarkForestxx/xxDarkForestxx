@@ -60,12 +60,16 @@ I’m a highly technical, professional, and proudly nerdy individual aiming to b
 ---
 
 ## 🎓 Certifications
+<p align="center">
 
-- Google Cybersecurity  
-- CompTIA Security+  
-- CompTIA Network+  
-- CompTIA A+ (Core 1001 & 1002)  
-- ITIL 4 Foundations  
+Google Cybersecurity<br>
+CompTIA Security+<br>
+CompTIA Network+<br>
+CompTIA A+ (Core 1001 & 1002)<br>
+ITIL 4 Foundations  
+
+</p>
+
 
 ---
 
