@@ -65,14 +65,15 @@ Google Cybersecurity
 CompTIA Security+  
 CompTIA Network+  
 CompTIA A+ (Core 1001 & 1002)  
-ITIL 4 Foundations  
+ITIL 4 Foundations 
+<br>AWS Cloud</br> 
 
 ---
 
 ## 🎓 Education
-
-**Bachelor of Business Administration** — Western Governors University (2017)  
-**B.S. Information Technology** — In progress (WGU)  
+<br>**Calbright College Cybersecurity Program** - in progress</br>
+<br>**Bachelor of Business Administration** — Western Governors University (2017)</br>
+**B.S. Information Technology** — (March 2026)  
 **Associate of Liberal Arts: Math & Sciences** — Antelope Valley College (2015)  
 
 ---
@@ -81,7 +82,7 @@ ITIL 4 Foundations
 
 | 🎯 Short-Term | 🚀 Medium-Term | 🌌 Long-Term |
 |--------------|----------------|--------------|
-| • Finish **B.S. IT**<br>• CySA+<br>• SC-900<br>• SC-200<br>• SC-300<br>• AZ-500 | • Earn **CCNA**<br>• Master Python & JavaScript<br>• Improve HTML/CSS<br>• Learn NIST 800-61 & 800-37<br>• Complete **SC-100** | • Earn **CISSP**<br>• Become senior cybersecurity engineer<br>• Specialize in automation & IR |
+| • CySA+<br>• SC-900<br>• SC-200<br>• SC-300<br>• AZ-500 | • Earn **CCNA**<br>• Master Python & JavaScript<br>• Improve HTML/CSS<br>• Learn NIST 800-61 & 800-37<br>• Complete **SC-100** | • Earn **CISSP**<br>• Become senior cybersecurity engineer<br>• Specialize in automation & IR |
 
 ---
 
